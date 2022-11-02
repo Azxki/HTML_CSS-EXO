@@ -1,0 +1,36 @@
+.text1 {
+    background-color: coral;
+    letter-spacing: .2rem;
+}
+
+.text2 {
+    background-color: blueviolet;
+    letter-spacing: 1px;
+}
+
+.text3 {
+    background-color: darkgreen;
+    letter-spacing: normal;
+}
+
+.text4 {
+    background-color: silver;
+    letter-spacing: -1px;
+    padding-top: 50px;
+}
+
+ol li ul {
+    background-image: url("mario.jpg");
+    width: 194px;
+    height: 259px;
+    background-repeat: no-repeat;
+}
+
+ol li {
+    padding-left: 2rem;
+    background-image: url(star.svg);
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+    background: cornflowerblue;
+}
